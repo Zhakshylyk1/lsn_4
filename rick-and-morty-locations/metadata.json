@@ -1,0 +1,6 @@
+{
+  "name": "Rick and Morty - Locations & Characters",
+  "description": "Rick and Morty locations and characters browser built with React Router Data APIs and Axios.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [""]
+}
